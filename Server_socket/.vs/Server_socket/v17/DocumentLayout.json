@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enti\\source\\repos\\Server_socket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|c:\\users\\enti\\source\\repos\\server_socket\\server_socket\\network_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|solutionrelative:server_socket\\network_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|c:\\users\\enti\\source\\repos\\server_socket\\server_socket\\database_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|solutionrelative:server_socket\\database_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|c:\\users\\enti\\source\\repos\\server_socket\\server_socket\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|solutionrelative:server_socket\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|c:\\users\\enti\\source\\repos\\server_socket\\server_socket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|solutionrelative:server_socket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|c:\\users\\enti\\source\\repos\\server_socket\\server_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF83EE0-D406-411F-8E6E-AB15646C6973}|Server_socket\\Server_socket.csproj|solutionrelative:server_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Client.cs",
+              "RelativeDocumentMoniker": "Server_socket\\Client.cs",
+              "ToolTip": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Client.cs",
+              "RelativeToolTip": "Server_socket\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:16:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Database_Manager.cs",
+              "RelativeDocumentMoniker": "Server_socket\\Database_Manager.cs",
+              "ToolTip": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Database_Manager.cs",
+              "RelativeToolTip": "Server_socket\\Database_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:16:29.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Server.cs",
+              "RelativeDocumentMoniker": "Server_socket\\Server.cs",
+              "ToolTip": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Server.cs",
+              "RelativeToolTip": "Server_socket\\Server.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:13:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Network_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Network_Manager.cs",
+              "RelativeDocumentMoniker": "Server_socket\\Network_Manager.cs",
+              "ToolTip": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Network_Manager.cs",
+              "RelativeToolTip": "Server_socket\\Network_Manager.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAhwEwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:10:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Program.cs",
+              "RelativeDocumentMoniker": "Server_socket\\Program.cs",
+              "ToolTip": "C:\\Users\\enti\\source\\repos\\Server_socket\\Server_socket\\Program.cs",
+              "RelativeToolTip": "Server_socket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:09:47.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
